@@ -1,0 +1,40 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Image1": 4,
+    "Screen1": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "01/20/2022 21:03:06",
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "futuristic-smart-city-with-5g-global-network-technology": "4a5ce623-aa13-46e9-8133-d5f1d0af3afc.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "futuristic-smart-city-with-5g-global-network-technology": "https://docserverpwaprodsbr.blob.core.windows.net/a63215d4-d329-4a60-82a9-3c8b8aafe07c-1/resource/1adc72e6-7ece-4741-8411-0c5951b862c8.jpg?sv=2017-04-17&sr=b&sig=hkEUqzfQZyAMGT%2FuazWUc6AwOxaaVy9zkJiESLTTbrY%3D&spr=https&se=2022-01-21T21%3A15%3A54Z&sp=r"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Image1": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-futuristic-smart-city-with-5g-global-network-technology": 0,
+    "Image-SampleImage": 1
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0255552,
+    "ControlCount": {},
+    "ErrorCount": 0
+  }
+}
