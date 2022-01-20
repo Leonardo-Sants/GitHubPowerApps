@@ -2,30 +2,103 @@
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Body1": 30,
+    "CalendarEventsGallery1": 24,
+    "Circle1": 20,
+    "Description1": 31,
+    "dropdownCalendarSelection1": 11,
+    "galleryTemplate1": 16,
+    "galleryTemplate2": 19,
+    "galleryTemplate3": 25,
+    "iconCalendar1": 10,
+    "iconEmptyState1": 33,
+    "iconLocation1": 27,
+    "iconNextMonth1": 14,
+    "iconPrevMonth1": 13,
     "Image1": 4,
-    "Screen1": 3
+    "LblAppName1": 8,
+    "LblDateSelected1": 23,
+    "LblMonthSelected1": 12,
+    "LblNoEvents1": 34,
+    "LblResetToday1": 9,
+    "MonthDayGallery1": 18,
+    "Rectangle1": 26,
+    "RectCalendarSeparator1": 35,
+    "RectMeetingBkg1": 6,
+    "RectQuickActionBar1": 7,
+    "Screen1": 3,
+    "Screen2": 5,
+    "Separator1": 32,
+    "Subcircle1": 21,
+    "Subtitle1": 29,
+    "Title1": 17,
+    "Title2": 22,
+    "Title3": 28,
+    "WeekdayGallery1": 15
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/20/2022 21:03:06",
+  "HeaderLastSavedDateTimeUTC": "01/20/2022 21:07:07",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
     "futuristic-smart-city-with-5g-global-network-technology": "4a5ce623-aa13-46e9-8133-d5f1d0af3afc.jpg"
   },
   "LocalResourceRootPaths": {
-    "futuristic-smart-city-with-5g-global-network-technology": "https://docserverpwaprodsbr.blob.core.windows.net/a63215d4-d329-4a60-82a9-3c8b8aafe07c-1/resource/1adc72e6-7ece-4741-8411-0c5951b862c8.jpg?sv=2017-04-17&sr=b&sig=hkEUqzfQZyAMGT%2FuazWUc6AwOxaaVy9zkJiESLTTbrY%3D&spr=https&se=2022-01-21T21%3A15%3A54Z&sp=r"
+    "futuristic-smart-city-with-5g-global-network-technology": "https://docserverpwaprodsbr.blob.core.windows.net/9022278a-cddc-4f4e-a64e-a98151ca36dd-1/resource/Assets0Images04a5ce623-aa13-46e9-8133-d5f1d0af3afc.jpg?sv=2017-04-17&sr=b&sig=OO4zl44Ye3GAAU1LCq1mbmJYEt6qrV%2FipjONJzyRV94%3D&spr=https&se=2022-01-21T21%3A20%3A36Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 2,
+    "DropDownSample": 1,
+    "MyCalendarEvents": 3,
+    "Office365Outlook": 0
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "image": 0
+    "circle": 6,
+    "dropdown": 4,
+    "gallery": 5,
+    "icon": 3,
+    "image": 0,
+    "label": 2,
+    "rectangle": 1
   },
   "PublishOrderIndices": {
     "App": 0,
+    "Body1": 0,
+    "CalendarEventsGallery1": 0,
+    "Circle1": 0,
+    "Description1": 0,
+    "dropdownCalendarSelection1": 0,
+    "galleryTemplate1": 0,
+    "galleryTemplate2": 0,
+    "galleryTemplate3": 0,
+    "iconCalendar1": 0,
+    "iconEmptyState1": 0,
+    "iconLocation1": 0,
+    "iconNextMonth1": 0,
+    "iconPrevMonth1": 0,
     "Image1": 0,
-    "Screen1": 0
+    "LblAppName1": 0,
+    "LblDateSelected1": 0,
+    "LblMonthSelected1": 0,
+    "LblNoEvents1": 0,
+    "LblResetToday1": 0,
+    "MonthDayGallery1": 0,
+    "Rectangle1": 0,
+    "RectCalendarSeparator1": 0,
+    "RectMeetingBkg1": 0,
+    "RectQuickActionBar1": 0,
+    "Screen1": 0,
+    "Screen2": 0,
+    "Separator1": 0,
+    "Subcircle1": 0,
+    "Subtitle1": 0,
+    "Title1": 0,
+    "Title2": 0,
+    "Title3": 0,
+    "WeekdayGallery1": 0
   },
   "ResourcesJsonIndices": {
     "Image-futuristic-smart-city-with-5g-global-network-technology": 0,
@@ -33,8 +106,12 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0255552,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.0569197,
+    "ControlCount": {
+      "image": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.974708,
     "ErrorCount": 0
   }
 }
