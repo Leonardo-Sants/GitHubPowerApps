@@ -1,4 +1,4 @@
-"Screen2 As screen.'tabletLayout_Calendar_ver3.0'":
+"'Tela 2' As screen.'tabletLayout_Calendar_ver3.0'":
 
     RectMeetingBkg1 As rectangle:
         Height: =42

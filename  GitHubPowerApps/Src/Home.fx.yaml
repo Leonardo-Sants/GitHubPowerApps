@@ -1,4 +1,4 @@
-Screen1 As screen:
+Home As screen:
 
     Image1 As image:
         Height: =540
